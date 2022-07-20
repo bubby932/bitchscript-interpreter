@@ -37,7 +37,7 @@ print "Program exit."
 
 # Todo List
 
-[ ] Add expression support using ().  
-[ ] Add label support using `Identifier` followed by a colon.  
-[ ] Write package manager.  
-[ ] Add `import` statement.  
+- [ ] Add expression support using ().  
+- [ ] Add label support using `Identifier` followed by a colon.  
+- [ ] Write package manager.  
+- [ ] Add `import` statement.  
