@@ -33,3 +33,11 @@ print "Program exit."
 
 * Variables must start with an alphabetic [aA-zZ] character. Variable names can contain numbers, but numbers may not be the first character.
 * Variables cannot be set using C-Style `Identifier = Value` syntax, they must be wholly redefined using `let`.
+
+
+# Todo List
+
+[ ] Add expression support using ().
+[ ] Add label support using `Identifier` followed by a colon.
+[ ] Write package manager.
+[ ] Add `import` statement.
