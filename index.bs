@@ -1,0 +1,28 @@
+let a = true
+let variableAssignmentTest = "String Literal"
+let variableAssignmentTest = "Variable Copy Test"
+let variableValueCopyTest = variableAssignmentTest
+let variableAssignmentTest = "Variable Print Test"
+
+print "String Literal Print"
+print variableAssignmentTest
+print variableValueCopyTest
+
+print "i wonder if newlines work
+woah they do"
+
+print 1234
+print true
+print false
+
+
+
+if a {
+    print "first run"
+    let a = false
+    goto 4
+} else {
+    print "second run"
+}
+
+print "after all"
