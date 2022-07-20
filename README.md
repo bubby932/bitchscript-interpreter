@@ -33,6 +33,7 @@ print "Program exit."
 
 * Variables must start with an alphabetic [aA-zZ] character. Variable names can contain numbers, but numbers may not be the first character.
 * Variables cannot be set using C-Style `Identifier = Value` syntax, they must be wholly redefined using `let`.
+* Nested conditional statements are not supported, I don't feel like updating the Lexer to support them.
 
 
 # Todo List
